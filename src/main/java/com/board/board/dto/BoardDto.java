@@ -25,5 +25,5 @@ public class BoardDto {
 
     private LocalDateTime modDate;
 
-    private int replayCount; // 해당 게시글의 댓글 수
+    private int replyCount; // 해당 게시글의 댓글 수
 }
